@@ -16,9 +16,10 @@ Nature Backers extends Guardian’s verification capabilities into a reusable en
 
 ## Hedera + Guardian Integration
 This project leverages:
-- Hedera Guardian / Global Indexer (verified sustainability project discovery)
+- Hedera Guardian / Global Indexer (verified project discovery)
 - Indexer client tooling (structured query + normalization utilities)
-- Hedera network services (recording participation events and proofs)
+- Hedera Token Service (HTS) (token/NFT participation rewards)
+- Hedera network services (recording engagement proofs and activity events)
 
 ## What We Built During the Hackathon
 During Apex Hackathon 2026, the team will deliver:
