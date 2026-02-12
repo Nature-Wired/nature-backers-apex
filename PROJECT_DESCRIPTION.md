@@ -22,9 +22,10 @@ This project leverages:
 - Hedera network services (recording engagement proofs and activity events)
 
 ## What We Built During the Hackathon
-During Apex Hackathon 2026, the team will deliver:
-- Modular Indexer client tooling (open source)
+This submission builds on the existing Nature Backers MVP foundation. During the Apex Hackathon period, the team will deliver:
+- Indexer client modularization and open-source packaging
 - Enhanced project discovery filters and usability improvements
-- A streamlined engagement flow for workplace + event participation
+- Event participation workflow (QR onboarding + wallet connect)
+- Token/NFT proof-of-participation issuance
 - Engagement analytics dashboard and reporting views
 - Updated documentation and deployment instructions
