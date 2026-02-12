@@ -8,8 +8,9 @@ Verified sustainability projects exist in the Guardian ecosystem, but participat
 
 ## Solution
 Nature Backers extends Guardian’s verification capabilities into a reusable engagement layer:
-- Discover Guardian-indexed projects using structured filters (SDGs, geography, project type, standards)
-- Back projects through symbolic, non-financial participation signals
+- Discover Guardian-indexed projects using structured filters (SDGs, geography, standards)
+- Back projects through event-based participation actions
+- Connect wallets and issue token/NFT proof-of-participation
 - Record engagement events on Hedera for auditability
 - Visualize participation analytics to support transparency and allocation workflows
 
