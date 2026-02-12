@@ -20,7 +20,6 @@ Nature Backers extends Guardian’s verification capabilities into a reusable en
 
 ## Hedera + Guardian Integration
 This project leverages:
-This project leverages:
 - Hedera Guardian / Global Indexer (verified project discovery)
 - Indexer client tooling (structured query + normalization utilities)
 - Hedera Token Service (HTS) (token/NFT participation rewards)
