@@ -4,7 +4,7 @@
 Nature Backers is a Guardian-powered engagement layer that enables workplaces, events, and communities to participate in verified sustainability projects — not just view them. Built on Hedera and integrated with the Guardian ecosystem, Nature Backers allows participants to discover Guardian-indexed projects and “back” them through engagement actions such as voting, pledges, or support signals. For the Apex Hackathon demo, the platform will showcase an event participation flow where attendees connect a wallet, back a verified nature project, and receive a token/NFT proof-of-participation. Nature Backers extends Indexer consumption patterns through structured discovery (SDGs, geography, standards) and engagement analytics.
 
 ## Problem
-Verified sustainability projects exist in the Guardian ecosystem, but participation is still limited to specialists, issuers, and buyers. Most stakeholders (employees, event attendees, communities, fans) lack a simple, trusted way to engage with verified projects and generate meaningful participation signals.
+Verified sustainability projects exist in the Guardian ecosystem, but participation is still limited to specialists, issuers, and buyers. Most stakeholders (employees, event attendees, communities) lack an accessible way to engage with trusted projects and generate measurable participation signals that support decision-making, transparency, and future funding.
 
 ## Solution
 Nature Backers extends Guardian’s verification capabilities into a reusable engagement layer:
