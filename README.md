@@ -1,3 +1,7 @@
+## Nature Backers — Apex Hackathon 2026 (Sustainability Track)
+## Hackathon Track: Sustainability
+## Event: Hedera Hello Future Apex Hackathon 2026
+
 # Nature Backers for Women’s Sports
 
 Nature Backers for Women’s Sports demonstrates how live sporting events can become participatory sustainability platforms. The project connects sports fans, corporate sponsors, and verified environmental initiatives using the Hedera network and Guardian ecosystem.
