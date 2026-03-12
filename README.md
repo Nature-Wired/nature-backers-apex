@@ -7,7 +7,7 @@
 
 Nature Backers for Women’s Sports demonstrates how live sporting events can become participatory sustainability platforms. The project connects sports fans, corporate sponsors, and verified environmental initiatives using the Hedera network and Guardian ecosystem.
 
-In this Apex Hackathon demo, a Women’s Flag Football game in the Bay Area becomes a sustainability engagement experience where fans explore and support sponsor-curated environmental projects during the game.
+In this Apex Hackathon demo, a Women’s Flag Football game in the San Francisco Bay Area becomes a sustainability engagement experience where fans explore and support sponsor-curated environmental projects during the game.
 
 Participation events and results are transparently recorded using Hedera network services.
 
