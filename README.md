@@ -46,7 +46,9 @@ This submission demonstrates a Women’s Flag Football game activation in the Sa
 
 Before the event, the corporate sponsor selects three sustainability projects aligned with their ESG priorities.
 
-For the hackathon demo, three Guardian-compatible local environmental projects are presented to fans.  These projects are currently included as structured project profiles within the demo application. The architecture supports retrieving projects dynamically from the Hedera Guardian Global Indexer once local projects become available.
+Nature Backers integrates with the Hedera Guardian Global Indexer to discover verified sustainability projects. 
+
+For the Apex Hackathon demo, three local sustainability initiatives are presented to fans as sponsor-curated projects. These appear as structured profiles within the demo application and illustrate how Guardian-indexed projects could be surfaced for event participants via the Hedera Guardian Global Indexer once local initiatives are digitized.
 
 Fan Journey:
 1. Scan QR code at the stadium
