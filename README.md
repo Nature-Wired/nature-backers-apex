@@ -1,6 +1,6 @@
 ## Nature Backers — Apex Hackathon 2026 (Sustainability Track)
-## Hackathon Track: Sustainability
-## Event: Hedera Hello Future Apex Hackathon 2026
+# Hackathon Track: Sustainability
+# Event: Hedera Hello Future Apex Hackathon 2026
 
 # Nature Backers for Women’s Sports
 
