@@ -1,15 +1,7 @@
-# Nature Backers — Apex Hackathon 2026 (Sustainability Track)
-
-**Hackathon Track:** Sustainability  
-**Event:** Hedera Hello Future Apex Hackathon 2026  
-
 # Nature Backers for Women’s Sports
+### Hedera Hello Future Apex Hackathon 2026 — Sustainability Track 
 
-Nature Backers for Women’s Sports is a fan engagement layer that turns live sports moments into participatory sustainability experiences. The platform connects women's sports fans, corporate sponsors, and environmental initiatives using the Hedera network and Guardian ecosystem.
-
-In this Apex Hackathon demo, a Women’s Flag Football game in the San Francisco Bay Area becomes a sustainability engagement experience where fans discover and support sponsor-curated environmental projects during the game.
-
-Participation events and results are transparently recorded using Hedera network services.
+Nature Backers for Women’s Sports is a sustainability engagement layer connecting women’s sports, sponsors, and verified environmental projects. Built on Hedera and integrated with the Hedera Guardian ecosystem, sponsors discover environmental initiatives indexed on the Guardian Global Indexer and present them to fans during live sporting events.
 
 ## Problem
 
@@ -32,18 +24,15 @@ This growth provides a natural environment to explore new fan engagement models 
 
 ## Solution
 
-Nature Backers introduces a fan engagement layer for women's sports sponsorships. 
-Corporate sponsors can present sustainability projects to fans during live sporting events and allow them to participate in directing sponsor-funded impact.
+Nature Backers enables corporate sponsors to present verified sustainability projects to fans during live sporting events.
 
-Fans interact through a simple mobile experience that enables them to:
-• explore sustainability projects  
-• learn about environmental impact  
+Fans participate through a simple mobile experience that allows them to:
+• explore environmental initiatives  
+• learn about project impact  
 • express interest in volunteering  
-• back a project during the game  
+• back one project during the game  
 
-Key game moments unlock portions of a sponsor sustainability pool, and fan participation determines how funding is ultimately allocated.
-
-Participation signals are recorded on the Hedera network to provide transparent engagement records.
+Participation signals are recorded on the Hedera network, and final fan results determine how sponsor funding is allocated across the projects.
 
 ## Apex Hackathon Demo Scenario
 
@@ -51,7 +40,7 @@ This submission demonstrates a Women’s Flag Football game activation in the Sa
 
 ## Sponsor-Curated Projects
 
-Before the event, the corporate sponsor selects three sustainability projects aligned with their ESG priorities.
+Before the event, Acme Sports Drinks Company, the corporate sponsor, selects three sustainability projects aligned with their sustainability priorities and goals.
 
 Nature Backers integrates with the Hedera Guardian Global Indexer to discover verified sustainability projects based on methodology, SDG alignment, and geographic location.
 
@@ -75,7 +64,7 @@ Nature Backers leverages Hedera network services to provide transparency, scalab
 
 ## What We Built During the Hackathon
 
-This submission builds on the existing Nature Backers MVP (originally designed for employee sustainability engagement) and adapts the platform to support fan engagement during live sports events.
+This submission builds on the existing Nature Backers MVP (originally designed for employee sustainability engagement) and adapts the platform to engagement during live women's sports events.
 
 Hackathon deliverables include:
 
@@ -92,17 +81,16 @@ updated GitHub documentation and deployment guides
 
 ## Tech Stack
 
+**Hedera Services**
 - Hedera Consensus Service (HCS)
 - Hedera Token Service (HTS)
 - Hedera Guardian ecosystem compatibility
 
-## Application
+**Application Stack**
 - Node.js backend
 - Next.js frontend
 - QR-based onboarding flow
-- digital wallet integration
-- Additional Features
-- fan engagement analytics dashboard
+- Digital wallet integration
 
 ## Demo
 
