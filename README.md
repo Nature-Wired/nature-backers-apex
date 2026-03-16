@@ -24,6 +24,12 @@ This creates a gap between:
 
 There is currently no engagement layer connecting sports fans, sponsors, and verified sustainability initiatives during live sporting events.
 
+## Market Context: Why Women’s Sports
+
+Women’s sports are one of the fastest-growing segments in global sport and present new opportunities for sponsor engagement and community participation.
+Following a record-breaking year in 2025, where global revenue surpassed $2.35 billion, the sector continues to expand rapidly.
+This growth provides a natural environment to explore new fan engagement models that connect sports sponsorship with community and environmental initiatives.
+
 ## Solution
 
 Nature Backers introduces a fan engagement layer for women's sports sponsorships. 
